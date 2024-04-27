@@ -40,7 +40,8 @@ public class reverseVowel {
     }
 
     public static void main(String[] args) {
-        String str = "hello";
+        // String str = "hello";
+        String str = "RUSHi";
 
         System.out.println(reveString(str));
 
